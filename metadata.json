@@ -1,0 +1,8 @@
+{
+  "name": "Pulse | Context-Native Wellness",
+  "description": "The world's first context-native wellness engine replacing wearables with ambient intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
